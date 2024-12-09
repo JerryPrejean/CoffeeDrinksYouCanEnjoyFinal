@@ -1,0 +1,457 @@
+@charset "utf-8";
+/* CSS Document */
+
+.web {
+  background-color: rgba(143,18,20,1.00);
+  display: flex;
+
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.web .div {
+    background-color: #e72b2b;
+    width: 1829px;
+    height: 1080px;
+    position: relative;
+}
+
+
+.web .text-wrapper {
+    position: relative;
+    top: -193px;
+    left: 315px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 87px;
+    letter-spacing: 0;
+    line-height: 109px;
+    white-space: nowrap;
+}
+
+.web .coffee-drinks-you {
+  position: absolute;
+  width: 602px;
+  height: 602px;
+  top: 293px;
+  left: 1153px;
+  object-fit: cover;
+}
+
+.web .overlap-group {
+	
+  position: absolute;
+  width: 785px;
+  height: 599px;
+  top: 293px;
+  left: 175px;
+  background-color: #656565;
+  border: 1px solid;
+  border-color: #707070;
+}
+
+.web .overlap {
+  position: absolute;
+  width: 615px;
+  height: 179px;
+  top: 154px;
+  left: 96px;
+}
+
+.web .click-here-to-get {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Impact-Regular", Helvetica;
+  font-weight: 400;
+  color: #2c0707;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.web .rectangle {
+  position: absolute;
+  width: 365px;
+  height: 115px;
+  top: 64px;
+  left: 114px;
+  background-color: #b42828;
+  border: 1px solid;
+  border-color: #707070;
+}
+
+.web .text-wrapper-2 {
+    position: absolute;
+    top: 101px;
+    left: 228px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.web .or-click-the-top {
+    position: absolute;
+    top: 435px;
+    left: 113px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+}
+
+.web .text-wrapper-3 {
+    position: absolute;
+    top: 297px;
+    left: 607px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 25px;
+    white-space: nowrap;
+}
+
+.web .text-wrapper-4 {
+    position: absolute;
+    top: 203px;
+    left: 740px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 25px;
+    white-space: nowrap;
+}
+
+.web .text-wrapper-5 {
+    position: absolute;
+    top: 382px;
+    left: 704px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 25px;
+    white-space: nowrap;
+}
+
+.web .text-wrapper-6 {
+  position: absolute;
+  top: 74px;
+  left: 1606px;
+  font-family: "Impact-Regular", Helvetica;
+  font-weight: 400;
+  color: #2c0707;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.web .text-wrapper-7 {
+  position: absolute;
+  top: 74px;
+  left: 1713px;
+  font-family: "Impact-Regular", Helvetica;
+  font-weight: 400;
+  color: #2c0707;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+img{
+    position: relative;
+    left: -177px;
+    top: -206px;
+}
+
+.now-the-flavors{
+    position: relative;
+    top: -8px;
+    left: 29px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.now-that-you-have {
+    position: relative;
+    top: 2px;
+    left: 66px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: normal;
+    color: #2c0707;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: 52px;
+    white-space: nowrap;
+}
+
+.fruit-plant {
+    position: relative;
+    top: -1185px;
+    left: -63px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: 46px;
+    white-space: nowrap;
+}
+
+.savory-caramel {
+    position: relative;
+    top: -834px;
+    left: 262px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: 46px;
+    white-space: nowrap;
+    text-align: left;
+}
+.cold {
+    position: relative;
+    top: -155px;
+    left: -81px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 20px;
+    letter-spacing: -1px;
+    line-height: 26px;
+    white-space: nowrap;
+}
+
+.coffee {
+    position: relative;
+    top: -53px;
+    left: 72px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 87px;
+    letter-spacing: 0;
+    line-height: 109px;
+    white-space: nowrap;
+}
+.coffee2 { position: relative;
+    top: -102px;
+    left: 315px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 87px;
+    letter-spacing: 0;
+    line-height: 109px;
+	white-space: nowrap;}
+
+.img2 {
+    position: relative;
+    left: 33px;
+    top: -206px;
+}
+
+.iced {
+    position: relative;
+    top: 11px;
+    left: 414px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 34px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.blended {
+    position: relative;
+    top: -8px;
+    left: 29px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.next-we-have-the {
+    position: relative;
+    top: -224px;
+    left: 315px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 34px;
+    letter-spacing: 0;
+    line-height: 43px;
+    white-space: nowrap;
+}
+
+.typically-served {
+    position: relative;
+    top: -185px;
+    left: 389px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.heated-up-with-steam {
+    position: relative;
+    top: -285px;
+    left: 599px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.mixed {
+    position: relative;
+    top: -338px;
+    left: 81px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: -49px;
+    white-space: nowrap;
+}
+
+.coffee-cup {
+    position: relative;
+}
+
+.blended2 {
+    position: relative;
+    top: -61px;
+    left: 178px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.alatte  {
+    position: relative;
+    top: -284px;
+    left: 496px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.espressoorlatte {
+    position: relative;
+    top: -897px;
+    left: 820px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.firstwe {
+    position: relative;
+    top: -910px;
+    left: 618px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+.next {position: relative;
+    top: -284px;
+    left: 496px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;}
+
+.coffee-has-many {
+    position: relative;
+    top: -1058px;
+    left: 615px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.a {position: relative;
+    top: -284px;
+    left: 496px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;} 
+
+.hot {
+    position: relative;
+    top: -16px;
+    left: 612px;
+    font-family: "Impact-Regular", Helvetica;
+    font-weight: 400;
+    color: #2c0707;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
